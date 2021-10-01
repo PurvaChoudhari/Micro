@@ -1,0 +1,22 @@
+2021-09-06 14:10:49,053 DEBUG SqlStatementLogger:144 - [X-Request-ID=84b5387b-d683-4230-9fae-7ac20c610fb1] select user0_.id as id1_1_, user0_.department_id as departme2_1_, user0_.email as email3_1_, user0_.first_name as first_na4_1_, user0_.last_name as last_nam5_1_ from user_service user0_ where user0_.id=?
+2021-09-06 14:11:05,072 DEBUG SqlStatementLogger:144 - [X-Request-ID=5c0af6e9-db0e-4227-b79a-d2db43fe4749] select user0_.id as id1_1_, user0_.department_id as departme2_1_, user0_.email as email3_1_, user0_.first_name as first_na4_1_, user0_.last_name as last_nam5_1_ from user_service user0_ where user0_.id=?
+2021-09-06 14:17:05,387 DEBUG SqlStatementLogger:144 - [X-Request-ID=13404df1-6517-436a-a495-71d852926761] select user0_.id as id1_1_, user0_.department_id as departme2_1_, user0_.email as email3_1_, user0_.first_name as first_na4_1_, user0_.last_name as last_nam5_1_ from user_service user0_ where user0_.id=?
+2021-09-06 14:17:08,558 DEBUG SqlStatementLogger:144 - [X-Request-ID=07ce7386-4659-437c-9680-4a174f5254f1] select user0_.id as id1_1_, user0_.department_id as departme2_1_, user0_.email as email3_1_, user0_.first_name as first_na4_1_, user0_.last_name as last_nam5_1_ from user_service user0_ where user0_.id=?
+2021-09-06 14:32:22,615 DEBUG SqlStatementLogger:144 - [X-Request-ID=382634df-a0d9-4425-a5ac-419c3103024a] select next_val as id_val from hibernate_sequence for update
+2021-09-06 14:32:22,653 DEBUG SqlStatementLogger:144 - [X-Request-ID=382634df-a0d9-4425-a5ac-419c3103024a] update hibernate_sequence set next_val= ? where next_val=?
+2021-09-06 14:32:22,721 DEBUG SqlStatementLogger:144 - [X-Request-ID=382634df-a0d9-4425-a5ac-419c3103024a] insert into user_service (department_id, email, first_name, last_name, id) values (?, ?, ?, ?, ?)
+2021-09-06 14:48:22,310 DEBUG SqlStatementLogger:144 - [X-Request-ID=2db03bb8-b982-489b-b760-ab61d9472513] select next_val as id_val from hibernate_sequence for update
+2021-09-06 14:48:22,348 DEBUG SqlStatementLogger:144 - [X-Request-ID=2db03bb8-b982-489b-b760-ab61d9472513] update hibernate_sequence set next_val= ? where next_val=?
+2021-09-06 14:48:22,458 DEBUG SqlStatementLogger:144 - [X-Request-ID=2db03bb8-b982-489b-b760-ab61d9472513] insert into user_service (department_id, email, first_name, last_name, id) values (?, ?, ?, ?, ?)
+2021-09-06 14:48:25,308 DEBUG SqlStatementLogger:144 - [X-Request-ID=665e9ed3-3c96-403a-ab8a-730d76739491] select next_val as id_val from hibernate_sequence for update
+2021-09-06 14:48:25,310 DEBUG SqlStatementLogger:144 - [X-Request-ID=665e9ed3-3c96-403a-ab8a-730d76739491] update hibernate_sequence set next_val= ? where next_val=?
+2021-09-06 14:48:25,313 DEBUG SqlStatementLogger:144 - [X-Request-ID=665e9ed3-3c96-403a-ab8a-730d76739491] insert into user_service (department_id, email, first_name, last_name, id) values (?, ?, ?, ?, ?)
+2021-09-06 14:49:29,261 DEBUG SqlStatementLogger:144 - [X-Request-ID=4a5c83fb-9de6-4df8-8a53-b9d5b37b5063] select next_val as id_val from hibernate_sequence for update
+2021-09-06 14:49:29,263 DEBUG SqlStatementLogger:144 - [X-Request-ID=4a5c83fb-9de6-4df8-8a53-b9d5b37b5063] update hibernate_sequence set next_val= ? where next_val=?
+2021-09-06 14:49:29,267 DEBUG SqlStatementLogger:144 - [X-Request-ID=4a5c83fb-9de6-4df8-8a53-b9d5b37b5063] insert into user_service (department_id, email, first_name, last_name, id) values (?, ?, ?, ?, ?)
+2021-09-06 14:57:47,404 DEBUG SqlStatementLogger:144 - [X-Request-ID=a948181d-f796-4038-a802-e1cb80a77280] select next_val as id_val from hibernate_sequence for update
+2021-09-06 14:57:47,445 DEBUG SqlStatementLogger:144 - [X-Request-ID=a948181d-f796-4038-a802-e1cb80a77280] update hibernate_sequence set next_val= ? where next_val=?
+2021-09-06 14:57:47,509 DEBUG SqlStatementLogger:144 - [X-Request-ID=a948181d-f796-4038-a802-e1cb80a77280] insert into user_service (department_id, email, first_name, last_name, id) values (?, ?, ?, ?, ?)
+2021-09-06 14:57:51,096 DEBUG SqlStatementLogger:144 - [X-Request-ID=26f2b900-670b-46fa-9655-1a6f3f2a828f] select next_val as id_val from hibernate_sequence for update
+2021-09-06 14:57:51,098 DEBUG SqlStatementLogger:144 - [X-Request-ID=26f2b900-670b-46fa-9655-1a6f3f2a828f] update hibernate_sequence set next_val= ? where next_val=?
+2021-09-06 14:57:51,101 DEBUG SqlStatementLogger:144 - [X-Request-ID=26f2b900-670b-46fa-9655-1a6f3f2a828f] insert into user_service (department_id, email, first_name, last_name, id) values (?, ?, ?, ?, ?)
