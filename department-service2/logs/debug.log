@@ -1,0 +1,2 @@
+2021-09-06 12:00:28,151 WARN  DepartmentController:120 - [X-Request-ID=d73740d2-95d4-45d3-aacc-5593c21bc547] [getMessage] warn message
+2021-09-06 12:00:28,152 ERROR DepartmentController:121 - [X-Request-ID=d73740d2-95d4-45d3-aacc-5593c21bc547] [getMessage] error message

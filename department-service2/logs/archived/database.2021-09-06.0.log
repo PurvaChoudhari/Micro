@@ -1,0 +1,7 @@
+2021-09-06 10:46:33,695 DEBUG SqlStatementLogger:144 - [X-Request-ID=07d520d2-e688-42c5-acbe-149c3cf92633] select next_val as id_val from hibernate_sequence for update
+2021-09-06 10:46:33,733 DEBUG SqlStatementLogger:144 - [X-Request-ID=07d520d2-e688-42c5-acbe-149c3cf92633] update hibernate_sequence set next_val= ? where next_val=?
+2021-09-06 10:46:33,779 DEBUG SqlStatementLogger:144 - [X-Request-ID=07d520d2-e688-42c5-acbe-149c3cf92633] insert into department_service (department_address, department_code, department_name, id) values (?, ?, ?, ?)
+2021-09-06 10:46:56,924 DEBUG SqlStatementLogger:144 - [X-Request-ID=d4faf8c9-bd00-4bfb-934e-5cadf22dde48] select department0_.id as id1_0_0_, department0_.department_address as departme2_0_0_, department0_.department_code as departme3_0_0_, department0_.department_name as departme4_0_0_ from department_service department0_ where department0_.id=?
+2021-09-06 10:46:56,930 DEBUG SqlStatementLogger:144 - [X-Request-ID=d4faf8c9-bd00-4bfb-934e-5cadf22dde48] select next_val as id_val from hibernate_sequence for update
+2021-09-06 10:46:56,931 DEBUG SqlStatementLogger:144 - [X-Request-ID=d4faf8c9-bd00-4bfb-934e-5cadf22dde48] update hibernate_sequence set next_val= ? where next_val=?
+2021-09-06 10:46:56,935 DEBUG SqlStatementLogger:144 - [X-Request-ID=d4faf8c9-bd00-4bfb-934e-5cadf22dde48] insert into department_service (department_address, department_code, department_name, id) values (?, ?, ?, ?)

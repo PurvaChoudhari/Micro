@@ -1,0 +1,10 @@
+2021-09-09 10:22:09,018 WARN  JpaBaseConfiguration$JpaWebConfiguration:219 - [] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-09-09 10:22:09,749 WARN  OptionalLiveReloadServer:61 - [] Unable to start LiveReload server
+2021-09-09 12:13:57,755 WARN  HikariPool$HouseKeeper:788 - [] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m49s428ms132µs400ns).
+2021-09-09 13:08:06,743 WARN  HikariPool$HouseKeeper:788 - [] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=38m38s731ms657µs700ns).
+2021-09-09 13:14:27,648 WARN  JpaBaseConfiguration$JpaWebConfiguration:219 - [] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-09-09 13:14:28,238 WARN  OptionalLiveReloadServer:61 - [] Unable to start LiveReload server
+2021-09-09 13:43:27,277 WARN  JpaBaseConfiguration$JpaWebConfiguration:219 - [] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-09-09 13:43:27,664 WARN  OptionalLiveReloadServer:61 - [] Unable to start LiveReload server
+2021-09-09 15:21:51,729 WARN  HikariPool$HouseKeeper:788 - [] HikariPool-3 - Thread starvation or clock leap detected (housekeeper delta=13m53s473ms983µs500ns).
+2021-09-09 16:29:48,968 WARN  HikariPool$HouseKeeper:788 - [] HikariPool-3 - Thread starvation or clock leap detected (housekeeper delta=6m26s309ms884µs400ns).
